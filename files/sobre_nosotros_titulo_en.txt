@@ -1,0 +1,6 @@
+<h1>Enjoy an exclusive experience in the center of Barcelona</h1>
+
+<img  style="display:block; margin-bottom:25px; margin:0 auto; vertical-align:top; width:50%" src="img/huerta_bn.png" alt="">
+<p>
+Food and audiovisual. The idea is to transmit everything good from food in a very visual way through recipes, from the most classic to never fail to the most creative. For this we want to collaborate with people, try new flavors and know the gastronomy without setting limits and forgetting the existence of geography. We propose you to let your gastronomic side fly and enjoy doing our dishes.
+</p>

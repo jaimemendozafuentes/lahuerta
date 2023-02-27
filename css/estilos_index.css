@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+body{
+	min-width: 988px;
+	max-width: 1900px;
+}
+
+#contenido{
+	mmmmargin-top: 127px;
+	mmmargin-top: 25px;
+	width: 100%;
+	position: relative;
+
+}
+
+#slider{
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	z-index: -9999;
+}
+#slider img{
+	position: absolute;
+	width: 100%;
+}
+#nosotros{
+	width: 100%;
+	margin-top: 50px;
+}
+
+#titulo-nosotros{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+p{font-size:1em;color:black;text-align: justify;font-weight: lighter;};
+h1{font-size:1.2em,font-weight: lighter;}
+#titulo-nosotros img{
+	padding: 25px;
+	box-sizing:border-box;
+}
+#informacion-talleres{
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 50px;
+}
+#titulo-talleres h1{
+	color: green;
+	margin:15px 0;
+	font-family: fantasy;
+	font-weight: lighter;
+}
+#titulo-talleres p{
+	text-align: center;
+	font-size: 15px;
+	font-style: normal;
+}
+#imagenes-taller{
+	margin-top: 20px;
+}
+#cita{
+	width: 30%;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 100px;
+}
+#cita h3{
+	font-family: 'Pathway Gothic One', sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+}
+#imagenes-huerta{
+	width: 100%;
+	text-align: center;
+	margin-top: 80px;
+}
+#imagenes-huerta img{
+	display: inline-block;
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+	margin-bottom: 15px;
+	margin-right: 10px;
+}
+.te{
+	font-family: 'Pathway Gothic One', sans-serif;
+    font-weight: lighter;
+    font-size: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: grey;
+}
+	
+
+
+
+

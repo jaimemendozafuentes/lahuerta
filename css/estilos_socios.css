@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 100%;
+}
+#contenido-socios{
+	mmmmargin-top: 127px;
+	width: 100%;
+	font-family: 'Roboto', sans-serif;
+}
+#titulo-socios{
+	width: 100%;
+	text-align: center;
+	padding: 5px;
+	box-sizing:border-box;
+	background-color: #A4A4A4;
+}
+#titulo-socios h4{
+	font-weight: lighter;
+	font-size: 20px;
+}
+#registro{
+	width: 60%;
+	margin: 0 auto;
+	padding-top: 100px;
+	box-sizing:border-box;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: stretch;
+}
+#barra{
+	border-left: 1px solid grey;
+}
+.secciones{
+	width: 50%;
+}
+.dentro-secciones{
+	width: 85%;
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+.dentro-secciones a{
+	font-size: 14px;
+	text-decoration: none;
+	color:  #f79468;
+	display: inline-block;
+	padding-top: 30px;
+}
+.dentro-secciones a:hover{
+	 color:#F67D48;
+	 text-decoration: underline;
+}
+.secciones h2{
+	font-size: 20px;
+	font-weight: lighter;
+	margin-bottom: 30px;
+}
+.secciones p{
+	margin-bottom: 30px;
+	font-size: 14px;
+	color: #757676;
+}
+.secciones label{
+	display: block;
+	color: #757676;
+	font-size: 13px;
+}
+.secciones input{
+	box-sizing: border-box;
+    width: 80%;
+    height: 2.3em;
+    padding: .4em .5em;
+    border: 1px solid #c5c5c5;
+    line-height: 1.1em;
+    mmmmargin: .2em 0 1.5em;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+input[type='submit']{
+	border: none;
+	height: 3em;
+	background-color:#f79468;
+	color: white; 
+}
+input[type='submit']:hover{
+	cursor: pointer;
+	background-color: #F67D48;
+}
+span{
+	color: red;
+}

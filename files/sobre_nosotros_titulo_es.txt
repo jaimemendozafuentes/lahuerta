@@ -1,0 +1,5 @@
+<h1 style="text-align:center">Disfruta de una experiencia exclusiva en el centro de Barcelona</h1>
+
+<p><img alt="" src="img/huerta_bn.png" style="display:block; margin-bottom:25px; margin:0 auto; vertical-align:top; width:50%" /></p>
+
+<p style="text-align:center">Comida y audiovisual. La idea es transmitir todo lo bueno de la comida de una forma muy visual a trav&eacute;s de recetas, desde las m&aacute;s cl&aacute;sicas que nunca fallan a las m&aacute;s creativas. Para ello queremos colaborar con personas, probar sabores nuevos y conocer la gastronom&iacute;a sin ponernos l&iacute;mites y olvidando la existencia de la geograf&iacute;a. Te proponemos que dejes volar tu lado gastron&oacute;mico y disfrutes realizando nuestros platos.</p>

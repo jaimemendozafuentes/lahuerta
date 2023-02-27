@@ -1,0 +1,145 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+#wrappero{
+	width: 100%;
+	mmmmargin-top: 150px;
+	margin-top: 25px;
+}
+#formulario-solicitud{
+	width: 60%;
+	margin: 0 auto;
+	border-left: 1px solid grey;
+	padding: 25px;
+	box-sizing:border-box;
+	margin-bottom: 25px;
+}
+.dear{
+	font-size: 13px;
+	vertical-align: top;
+	display: inline-block;
+	margin-top: 1px;
+}
+#hazte-socio{
+	text-align: center;
+}
+#hazte-socio h1{
+	font-size: 34px;
+	line-height: 34px;
+	font-weight: 300;
+	letter-spacing: 5px;
+	color: #393836;
+}
+#informacion{
+	text-align: justify;
+	padding:15px 5px;
+}
+#informacion p{
+	font-size: 14px;
+}
+.naranja{
+	color: #f79468;
+	font-size: 17px;
+	letter-spacing: 2.25px;
+	font-weight: 500;
+}
+.rojo{
+	color: red;
+}
+
+#formulario{
+	margin-top: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-wrap:wrap;
+}
+#formulario label{
+	display: block;
+	margin-bottom: 5px;
+	width: 300px;
+	font-size: 13px;
+}
+.texto{
+	padding: 6px;
+	width: 100%;
+	margin-bottom: 10px;
+	box-sizing:border-box;
+}
+#formulario input[type='password']{
+	padding: 6px;
+	width: 100%;
+	margin-bottom: 9px;
+	box-sizing:border-box;
+}
+#formulario input[type='date']{
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 3.5px;
+	box-sizing:border-box;
+}
+#documento{
+	width: 47%;
+	padding: 6px;
+}
+#formulario input[type='button']{
+	padding: 5px;
+	width: 75px;
+}
+input::-webkit-input-placeholder {
+  font-style: italic;
+  color: #BDBDBD;
+}
+.apartados{
+	width: 48%;
+	padding: 5px;
+	box-sizing:border-box;
+	margin-bottom: 20px;
+}
+#doc{
+	width: 47%;
+	margin-bottom: 10px;
+	padding: 6px;
+}
+#reglamento{
+	width: 100%;
+	height: 160px;
+	border: 1px solid black;
+	overflow-y: scroll;
+	background-color: #eee;
+	font-size: 12px;
+	padding: 10px;
+	text-align: justify;
+	line-height: 1.42857143;
+	color: #555;
+	margin-bottom: 15px;
+}
+#legal{
+	width: 100%;
+	margin-bottom: 15px;
+}
+#legal span{
+	font-size: 13px;
+	margin-left: 2px;
+    display: inline-block;
+    vertical-align: top;
+   margin-top: 1px;
+}
+.datos{
+	padding: 5px;
+	box-sizing:border-box;
+}
+#regis{
+	width: 48%;
+}
+
+
+
+
+
+
+
+
